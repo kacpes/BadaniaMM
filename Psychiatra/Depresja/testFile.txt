@@ -1,0 +1,2 @@
+To jest plik testowy nie mam badania pod ręką wyrzucimy jak się coś pojawi
+pdf jest pusty bez odczytu
